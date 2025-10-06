@@ -57,7 +57,7 @@ MONGO_CLUSTER=nombreCluster
 MONGO_APPNAME=nombreApp
 ```
 
-> 💡 El backend busca este archivo desde la raíz, así que debe ubicarse al mismo nivel que las carpetas `back/` y `front/`.
+> 💡 El backend busca este archivo desde la raíz, así que debe ubicarse al mismo nivel que las carpetas `api-rest-loopback/` y `carrito-frontend/`.
 
 ---
 
